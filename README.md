@@ -70,7 +70,7 @@ Contributions to FoodApp are welcome! If you have suggestions for new features, 
 FoodApp is licensed under the MIT License.
 
 **Contact**
-For any inquiries or support, please contact [your-email@example.com].
+For any inquiries or support, please contact [saahilhumayun@gmail.com].
 
  `(https://github.com/kyrios12/Foodie)` repo url, and `saahilhumayun@gmail.com`.
 
