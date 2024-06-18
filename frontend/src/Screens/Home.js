@@ -12,7 +12,7 @@ function Home() {
 
    const loadData = async () => {
     try {
-        let response = await fetch("http://localhost:8080/food/foodata", {
+        let response = await fetch("https://foodie-pi-puce.vercel.app/", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
